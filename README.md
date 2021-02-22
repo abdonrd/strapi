@@ -5,6 +5,7 @@
 </p>
 <h3 align="center">API creation made simple, secure and fast.</h3>
 <p align="center">The most advanced open-source headless CMS to build powerful APIs with no effort.</p>
+<p align="center"><a href="https://strapi.io/demo">Try live demo</a></p>
 <br />
 
 <p align="center">
@@ -18,10 +19,6 @@
 
   <a href="https://www.heroku.com/deploy/?template=https://github.com/strapi/strapi-heroku-template">
     <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
-  </a>
-
-  <a href="https://fastandcomfy.io/strapi/">
-    <img src="https://assets.strapi.io/uploads/deploy_button_fastandcomfy_7cb9319189.png" />
   </a>
 
   <a href="https://render.com/docs/deploy-strapi">
